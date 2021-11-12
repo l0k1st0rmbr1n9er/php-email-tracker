@@ -28,4 +28,6 @@
 1. You can use geo-location services like [http://ip-api.com/docs/](http://ip-api.com/docs/) to return the actual location of the IP-address.
 2. Additionally you could use the [MAPBOX API](https://www.mapbox.com/) to visualize the locations on a map. 
 
+<a href="https://heroku.com/deploy" rel="nofollow"><img src="https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" style="max-width: 100%;"></a>
+
 
